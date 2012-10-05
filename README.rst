@@ -4,7 +4,7 @@ QuerySet API Batch method
 
 Query method batch is handy for minimizing the number of queries that need
 to be made in certain situations.  However it is only usual for
-pre-selecting ForeignKey_ relations.
+pre-selecting ForeignKey relations.
 
 Example Usage
 =============
